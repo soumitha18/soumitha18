@@ -1,5 +1,4 @@
-### Hi there 👋
-I'm <b>Soumitha Bhaskara</b> here
+I'm <b>Soumitha Bhaskara</b> here 👋
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png">
 
