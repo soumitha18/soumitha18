@@ -18,10 +18,10 @@ I'm <b>Soumitha Bhaskara</b> here 👋
     <img height="40" src="https://soumitha18.github.io/images/skills/redux.png">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/sass.png">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/sql.png">&nbsp;&nbsp;
+    <img height="40" src="https://soumitha18.github.io/images/skills/DBMS.png">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/node.png">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/express.png">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/cypress.png">&nbsp;&nbsp;
-    <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">
 </p>
 
 <!--
