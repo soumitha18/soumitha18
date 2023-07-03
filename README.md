@@ -3,10 +3,10 @@ I'm <b>Soumitha Bhaskara</b> here 👋
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png">
 
 ## About me
-- 😄 
+- 😄 I am Soumitha Bhaskara, currently employed as a Software Development Engineer at LegalZoom.
 - 💼 Passionate Full Stack Developer leveraging expertise in driving innovative programming solutions. Enthusiastic about adopting new tools and technologies for challenging opportunities.
-- 🌱 
-- 💬 Let's [chat](mailto:soumithaalpineti@gmail.com)!
+- 😇 Volunteer & Mentor at <a href="https://www.facebook.com/jtdfoundation/">Joining The Dots</a>, providing guidance and support to aspiring software developers through the JTBB program.
+- 😉 See me <a href="https://soumitha18.github.io/">here</a>
 
 ## Languages & Tech
 
