@@ -3,8 +3,9 @@ I'm <b>Soumitha Bhaskara</b> here 👋
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190626123927/untitlsssssed.png">
 
 ## About me
-- 😄 I'm a 21 y.o. <b>Bsc (MECs)</b> from MVR Institution. 
-- 🌱 I’m currently learning about <i>Full Stack Web Development</i> at Masai School.
+- 😄 
+- 💼 Passionate Full Stack Developer leveraging expertise in driving innovative programming solutions. Enthusiastic about adopting new tools and technologies for challenging opportunities.
+- 🌱 
 - 💬 Let's [chat](mailto:soumithaalpineti@gmail.com)!
 
 ## Languages & Tech
@@ -19,6 +20,7 @@ I'm <b>Soumitha Bhaskara</b> here 👋
     <img height="40" src="https://soumitha18.github.io/images/skills/sass.png">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/sql.png">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/DBMS.png">&nbsp;&nbsp;
+    <img height="40" src="https://soumitha18.github.io/images/skills/flask.svg">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/node.png">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/express.png">&nbsp;&nbsp;
     <img height="40" src="https://soumitha18.github.io/images/skills/cypress.png">&nbsp;&nbsp;
